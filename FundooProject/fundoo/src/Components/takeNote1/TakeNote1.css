@@ -1,0 +1,29 @@
+.TK1_main{
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    height: 50px;
+    border: 2px solid rgb(231, 230, 230);
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    left: 600px;
+    /* top: 30px; */
+    bottom: 80px;
+
+}
+
+#TK1_main_h3ID{
+    font-weight: 400px;
+}
+
+.sub_TK1_main{
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    height: 50px;
+    align-items: center;
+    justify-content: space-around;
+
+}

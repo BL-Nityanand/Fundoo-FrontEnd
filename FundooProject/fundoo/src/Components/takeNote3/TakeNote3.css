@@ -1,0 +1,111 @@
+.TK4_main{
+    display: flex;
+    width: 22%;
+    height: 130px;
+    border: 2px solid rgb(245, 244, 244);
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    /* left: 350px;
+    top: 80px; */
+    border-radius: 10px;
+
+    
+}
+
+.TK4_main_main{
+    display: flex;
+    flex-direction: column;
+    width: 235px;
+    height: 115px;
+
+}
+
+.sub_TK4_main_1{
+    display: flex;
+    flex-direction: row ;
+    width: 235px;
+    height: 115px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub_TK4_main_Sub1{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 100%;
+
+}
+.sub_TK4_main_Sub2{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    justify-content: flex-start;
+
+}
+
+.sub_TK4_main_Sub1_1{
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+}
+.sub_TK4_main_2{
+    display: flex;
+    width: 230px;
+    height: 38px;
+    align-items: center;
+
+}
+.sub_TK4_main_3{
+    display: flex;
+    width: 230px;
+    height: 38px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.time_div{
+    display: flex;
+    flex-direction: row;
+    width: 120px;
+    height: 20px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: lightgrey;
+}
+
+#time_div_paraID{
+    font-size: small;
+}
+
+
+.modalbox1{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.modalBox2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    top: 20px;
+}
+
+.subModalBox2{
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    justify-content: space-between;
+    
+    
+}
+
+.subModalBox3{
+    display: flex;
+}

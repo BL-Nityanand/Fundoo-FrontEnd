@@ -1,0 +1,115 @@
+/* .Box1{
+    display: flex;
+    flex-direction: row;
+    width: 50vw;
+    height: 90vh;
+    border: 1px solid rgb(182, 180, 180);
+    position: relative;
+    top: 50px;
+    left: 400px;
+    border-radius: 10px;
+  
+    
+} */
+/* .childBox_1{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+
+} */
+/* #logoID1{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    right: 150px;
+    bottom: 60px;
+} */
+
+/* #h2TagID1{
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+    font-weight: 400;
+} */
+
+/* .subChildBox1{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 40px;
+    justify-content: space-between;
+    position: relative;
+    bottom: 30px;
+} */
+
+/* #outlined-basic{
+    width: 165px;
+    height: 20px;
+} */
+
+/* #TextField{
+    width: 370px;
+    height: 9px;
+
+}
+
+#btnID{
+    font: small-caps;
+    position: relative;
+    right: 40px;
+} */
+
+/* .subChildBox2{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 40px;
+    justify-content: space-between;
+    position: relative;
+    top: 30px;
+} */
+
+/* #paraID{
+    text-align: left;
+    font-size: small;
+    position: relative;
+    top: 30px;
+} */
+
+/* .innerBox{
+    display: flex;
+    flex-direction: row;
+    width: 87%;
+    height: 5%;
+    justify-content: space-between;
+    position: relative;
+    top: 50px;
+} */
+
+/* .childBox2{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* #checkBoxID{
+    position: relative;
+    right: 120px;
+    top: 25px;
+} */
+
+/* #imgID{
+    width: 250px;
+}
+
+#h2TagID2{
+    font-weight: 300;
+    font-size: x-large;
+    text-align: center;
+} */

@@ -1,0 +1,74 @@
+.takeNote3Main{
+    display: flex;
+    flex-direction: column;
+    width: 42%;
+    height: 170px;
+    border: 2px solid rgb(227, 221, 221);
+    position: relative;
+    left: 600px;
+    /* top: 30px; */
+    bottom: 80px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+
+}
+
+.TK3_main{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    height: 150px;
+    /* position: relative;
+    left: 600px;
+    top: 100px; */
+
+}
+
+.sub_TK3_main1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+/* .inputClass1{
+     border: none; 
+}*/
+ 
+.sub_TK3_main2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+
+}
+.sub_TK3_main3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+
+}
+.sub_TK3_main3_1{
+    display: flex;
+    flex-direction: row;
+    width: 460px;
+    height: 38px;
+    align-items: center;
+    justify-content:space-between;
+}
+.sub_TK3_main3_2{
+    display: flex;
+    width: 150px;
+    height: 38px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#btn_id{
+    color: black;
+}

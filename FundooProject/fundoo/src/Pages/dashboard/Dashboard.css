@@ -1,0 +1,23 @@
+.notesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 65vw;
+    height: auto;
+    position: relative;
+    left: 270px;
+    bottom: 50px;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: center;
+    flex-Grow: 1 ;
+    /* border: 2px solid red; */
+}
+
+/* .TakeNote3Class{
+    display: flex;
+    justify-content: space-around;
+    
+    position: relative;
+
+   
+} */

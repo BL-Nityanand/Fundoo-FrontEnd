@@ -1,0 +1,6 @@
+.drawerMain{
+    display: flex;
+    /* flex-direction: column;
+    border: 2px solid red;
+    align-content: space-between; */
+}
